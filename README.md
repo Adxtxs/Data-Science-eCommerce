@@ -43,15 +43,15 @@ The following datasets were utilized in this project:
   5. **Insight 5**: Seasonal trends show increased sales during the holiday months, which could guide inventory and marketing strategies.
 
 **Deliverables:**
-- **EDA Code**: `FirstName_LastName_EDA.ipynb`
-- **Business Insights Report**: `FirstName_LastName_EDA.pdf`
+- **EDA Code**: `Aditi_Sah_EDA.ipynb`
+- **Business Insights Report**: `Aditi_Sah_EDA.pdf`
 
 ### Task 2: Lookalike Model
 - Developed a Lookalike Model to recommend similar customers based on their profiles and transaction history.
 - Generated the top 3 lookalikes with similarity scores for the first 20 customers.
 
 **Deliverables:**
-- **Lookalike Recommendations**: `FirstName_LastName_Lookalike.csv`
+- **Lookalike Recommendations**: `Aditi_Sah_Lookalike.csv`
 
 ### Task 3: Customer Segmentation / Clustering
 - Performed customer segmentation using K-Means clustering.
@@ -60,8 +60,8 @@ The following datasets were utilized in this project:
 - Visualized the clusters effectively.
 
 **Deliverables:**
-- **Clustering Results Report**: `FirstName_LastName_Clustering.pdf`
-- **Clustering Code**: `FirstName_LastName_Clustering.ipynb`
+- **Clustering Results Report**: `Aditi_Sah_Clustering.pdf`
+- **Clustering Code**: `Aditi_Sah_Clustering.ipynb`
 
 **Thank you for reviewing my submission!**
 
